@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Akh1999/my-app.git/static/css/main.0912e938.css",
-    "main.js": "/Akh1999/my-app.git/static/js/main.e062182d.js",
+    "main.css": "/Akh1999/my-app.git/static/css/main.6cc736e8.css",
+    "main.js": "/Akh1999/my-app.git/static/js/main.7af17392.js",
     "static/js/787.28cb0dcd.chunk.js": "/Akh1999/my-app.git/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Akh1999/my-app.git/index.html",
-    "main.0912e938.css.map": "/Akh1999/my-app.git/static/css/main.0912e938.css.map",
-    "main.e062182d.js.map": "/Akh1999/my-app.git/static/js/main.e062182d.js.map",
+    "main.6cc736e8.css.map": "/Akh1999/my-app.git/static/css/main.6cc736e8.css.map",
+    "main.7af17392.js.map": "/Akh1999/my-app.git/static/js/main.7af17392.js.map",
     "787.28cb0dcd.chunk.js.map": "/Akh1999/my-app.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0912e938.css",
-    "static/js/main.e062182d.js"
+    "static/css/main.6cc736e8.css",
+    "static/js/main.7af17392.js"
   ]
 }
